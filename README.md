@@ -119,12 +119,14 @@ Los hostales y cabañas tienen precios más bajos ($107.12 USD y $145.63 USD por
 Los barcos presentan precios elevados ($291.33 USD por alojamiento y $61.96 USD por habitación). Estos tipos de alojamiento pueden capitalizar su exclusividad destacando las experiencias únicas que ofrecen. Los barcos, con un costo bajo por habitación, pueden ser promovidos como opciones únicas y asequibles. Enfocar las campañas en la experiencia singular de alojarse en un barco, combinado con el atractivo costo, puede atraer a turistas en busca de aventuras únicas.
 
 *Gráfico 4. Precio promedio por habitación según alojamiento*
+
 ![imagen](https://github.com/user-attachments/assets/3e7d6623-8785-4854-8ee2-9d64f9180103)
 
 El gráfico #5 muestra que el precio promedio de los alojamientos aumenta considerablemente a medida que se incrementa la capacidad de huéspedes, especialmente a partir de los ocho huéspedes. Esto sugiere una demanda significativa por alojamientos de mayor capacidad.
 Para capitalizar esta tendencia, se propone aumentar el número de camas y, por ende, la capacidad de los alojamientos. Esta estrategia no solo permite captar una mayor cuota del mercado, sino también justificar precios más altos. La implementación de esta estrategia requiere optimizar el uso del espacio en los alojamientos. Esto podría incluir la reconfiguración de habitaciones para añadir más camas sin comprometer el confort, así como la adición de camas plegables o literas. También es fundamental asegurar que las áreas comunes sean adecuadas para un mayor número de huéspedes, manteniendo así una experiencia positiva para todos.
 
 *Gráfico 5. Precio promedio por cantidad de huéspedes permitidos*
+
 ![imagen](https://github.com/user-attachments/assets/733b2d56-45d1-4470-ac1c-0c2ebf91ff71)
 
 Los gráficos de dispersión presentados en el conjunto de Gráficos #6, junto con los niveles de correlación, indican una correlación positiva fuerte entre las calificaciones de los alojamientos y sus precios. Esta relación es particularmente evidente en las siguientes dimensiones: calificación general, calificación de limpieza, calificación de ubicación y calificación de comunicación.
